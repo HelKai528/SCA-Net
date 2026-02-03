@@ -1,4 +1,4 @@
-#SCA-Net: Automatic Estimation of Stellar Atmospheric Physical Parameters Based on Efficient Convolution and Attention Mechanisms
+# SCA-Net: Automatic Estimation of Stellar Atmospheric Physical Parameters Based on Efficient Convolution and Attention Mechanisms
 
 SCA-Net is a tool for automatically estimating stellar atmospheric physical parameters. It is designed based on efficient convolution and attention mechanisms, aiming to provide a convenient and customizable solution for stellar parameter prediction in astronomical research.
 
