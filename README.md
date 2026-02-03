@@ -2,13 +2,13 @@
 
 SCA-Net is a tool for automatically estimating stellar atmospheric physical parameters. It is designed based on efficient convolution and attention mechanisms, aiming to provide a convenient and customizable solution for stellar parameter prediction in astronomical research.
 
-Table of Contents
+## Table of Contents
 
 Installation
 Usage
 Project Structure
 
-Installation
+## Installation
 
 Environment Requirements
 To ensure proper program operation, the following environment must be configured:
@@ -23,7 +23,7 @@ Navigate to the root directory of the project.
 Ensure all files ending with .py have executable permissions by running terminal commands.
 Optionally, add the program to the bash environment variables by setting the PYTHONPATH variable and creating a command alias.
 
-Usage
+## Usage
 
 Prediction
 The program supports two prediction methods:
@@ -33,7 +33,7 @@ The second method is batch prediction by file list: Prepare a text file listing 
 Wavelength Dependency Analysis
 You can use the script named window_lxp.py to perform wavelength dependency analysis on the trained model. When running this script, you need to specify the model path and data path parameters.
 
-Project Structure
+## Project Structure
 
 The project includes the following main files:
 scanet.py: This file defines the model code.
@@ -42,7 +42,7 @@ label.py: This file contains the label processing workflow.
 utils.py: This file contains various utility functions.
 window_lxp.py: This file is used for wavelength dependency analysis.
 
-Main Module Description
+## Main Module Description
 
 scanet.py: This file implements the core of the SCA-Net model, designed based on efficient convolution and attention mechanisms.
 insert.py: This file is responsible for the data preprocessing workflow, including cleaning, transformation, and formatting of raw data.
