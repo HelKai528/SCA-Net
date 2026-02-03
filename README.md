@@ -16,6 +16,7 @@ To ensure proper program operation, the following environment must be configured
    - torch = 1.10.0
    - torchvision = 0.11.1
    - cv2 = 3.4.10
+
 Installation Steps
 Clone the code repository to your local computer.
 Navigate to the root directory of the project.
